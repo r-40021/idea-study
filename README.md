@@ -1,0 +1,2 @@
+# idea-study
+Studying Intellij
