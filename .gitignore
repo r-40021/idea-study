@@ -15,7 +15,7 @@ project/plugins/project/
 .cache
 .lib/
 .sbt/
-/.bsp/
+.bsp/
 null/
 
 ### Scala ###
