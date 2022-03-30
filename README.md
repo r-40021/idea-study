@@ -1,2 +1,2 @@
 # idea-study
-Studying Intellij
+Studying Scala programming on Intellij
